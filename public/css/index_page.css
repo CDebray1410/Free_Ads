@@ -1,0 +1,26 @@
+.indexBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 130px;
+}
+.indexBox__title{
+    text-align: center;
+    width: 100%;
+    font-size: 5em;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 60px 0px;
+}
+.indexBox__linkContainer{
+    width: inherit;
+    display: flex;
+    justify-content: space-evenly;
+}
+.indexBox__linkContainer > a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    text-decoration: none;
+}
