@@ -92,6 +92,7 @@ Suivez bien les étapes ci-dessous !
         MAIL_USERNAME=90b8de4034c5e4
         MAIL_PASSWORD=f9c7eb8e9dad1e
         MAIL_ENCRYPTION=tls
+        MAIL_FROM_ADDRESS=testo@gmail.com
     </code>
 </pre>
 - Récupérez le code et modifier le code de votre fichier .env en conséquence
