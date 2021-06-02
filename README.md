@@ -71,7 +71,7 @@ Suivez bien les étapes ci-dessous !
     - DB_PORT  par le port qu'utilise votre localhost
     - DB_DATABASE  par le nom de la base de données, qui sera ***free_ads***
     - DB_USERNAME  par le nom d'utilisateur que vous utilisez pour accéder à votre phpMyAdmin
-    - DB_USERNAME  par le mot de passe que vous utilisez pour accéder à votre phpMyAdmin
+    - DB_PASSWORD  par le mot de passe que vous utilisez pour accéder à votre phpMyAdmin
 ###  Étape 4 : insertion des tables dans la base de données
 - Utiliser sur le terminal ( dans le dossier cloné ) la commande :
     - php artisan migrate
